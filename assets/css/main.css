@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to top, rgba(87, 93, 126, 1.0), rgba(46, 49, 65, 0.4)), url("../../images/banner.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -3378,8 +3378,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		padding: 10em 0 4.75em 0 ;
-		margin-bottom: 220px;
+		padding: 10em 0 4.75em 0;
 	}
 
 		#banner .inner {
@@ -3467,7 +3466,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/banner.jpg");
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3579,7 +3578,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/banner.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
@@ -3635,10 +3634,10 @@ input, select, textarea {
 			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 0,0 100,100' style='fill:%232e3141%3B' /%3E%3C/svg%3E");
 		}
 		.alt-wrapper:before{
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,100 100,0' style='fill:%232e3141%3B' /%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,99 100,100 100,0' style='fill:%232e3141%3B' /%3E%3C/svg%3E");
 		}
 		.alt-wrapper:after{
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 0,0 100,100' style='fill:%232e3141%3B' /%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 0,0 104,100' style='fill:%232e3141%3B' /%3E%3C/svg%3E");
 		}
 
 		.end-wrapper{
@@ -3708,7 +3707,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23353849%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,98 100,0 100,100' style='fill:%23353849%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style2:before {
@@ -4087,8 +4086,8 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-color: #1d2031;
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/banner.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
